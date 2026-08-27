@@ -23,16 +23,16 @@ FONT_SERIF = "'Cormorant Garamond', Georgia, serif"
 FONT_SANS = "'Inter', -apple-system, 'Helvetica Neue', Arial, sans-serif"
 
 # Textos
-TITLE_TEXT = "Nico & Leyre"
+TITLE_TEXT = "Aniversario Nico & Leyre"
 SUBTITLE_TEXT = "Introduce el código"
 ERROR_TEXT = "Código incorrecto"
 HINT_LABEL = "¿Una pista?"
-HINT_TEXT = "El día que empezó todo."
+HINT_TEXT = "🍝​-💪-​🎒-🗻​"
 MESSAGE_TEXT = "Esto es para ti."
 BACK_TEXT = "Volver"
 LOADING_TEXT = "Preparando tu regalo..."
 
-LOADING_SECONDS = 5
+LOADING_SECONDS = 7
 
 DELETE_TEXT = "<"
 DELETE_HELP = "Borrar"
@@ -371,7 +371,7 @@ html, body, .stApp, [data-testid="stAppViewContainer"], [data-testid="stMain"] {
 .hint summary::-webkit-details-marker {{ display: none; }}
 .hint summary:hover {{ color: {COLOR_TEXT} !important; }}
 .hint p {{
-    font-size: 0.8rem;
+    font-size: 1.5rem;
     font-weight: 300;
     color: {COLOR_MUTED} !important;
     margin: 1rem 0 0;
