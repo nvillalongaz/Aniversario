@@ -23,7 +23,7 @@ FONT_SERIF = "'Cormorant Garamond', Georgia, serif"
 FONT_SANS = "'Inter', -apple-system, 'Helvetica Neue', Arial, sans-serif"
 
 # Textos
-TITLE_TEXT = "Aniversario Nico & Leyre"
+TITLE_TEXT = "Nuestro primer aniversario"
 SUBTITLE_TEXT = "Introduce el código"
 ERROR_TEXT = "Código incorrecto"
 HINT_LABEL = "¿Una pista?"
